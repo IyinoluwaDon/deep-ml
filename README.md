@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 0 problems · 0 labs · 6 math
+**6** solved · 6 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
